@@ -1,0 +1,18 @@
+'Log files:
+/home/mario_botha_mb/.npm/_logs/2025-06-30T11_00_36_711Z-debug-0.log
+
+# npm resolution error report
+
+While resolving: learn-coding-with-rugby@0.0.0
+Found: vite@7.0.0
+node_modules/vite
+  dev vite@"^7.0.0" from the root project
+
+Could not resolve dependency:
+peer vite@"^3.1.0 || ^4.0.0 || ^5.0.0 || ^6.0.0" from vite-plugin-pwa@1.0.0
+node_modules/vite-plugin-pwa
+  vite-plugin-pwa@"*" from the root project
+
+Fix the upstream dependency conflict, or retry
+this command with --force or --legacy-peer-deps
+to accept an incorrect (and potentially broken) dependency resolution.

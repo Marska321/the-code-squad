@@ -1,0 +1,5 @@
+2025-06-30 10:22:06.214 [info] Extension host with pid 1306 started
+2025-06-30 10:22:06.229 [info] Lock '/home/mario_botha_mb/.codeoss/data/User/workspaceStorage/-614209d1/vscode.lock': Lock acquired.
+2025-06-30 10:33:02.422 [info] Extension host terminating: received terminate message from renderer
+2025-06-30 10:33:02.423 [info] Lock '/home/mario_botha_mb/.codeoss/data/User/workspaceStorage/-614209d1/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2025-06-30 10:33:02.425 [info] Extension host with pid 1306 exiting with code 0

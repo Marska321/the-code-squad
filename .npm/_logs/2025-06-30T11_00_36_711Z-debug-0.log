@@ -1,0 +1,143 @@
+0 verbose cli /usr/local/nvm/versions/node/v22.16.0/bin/node /usr/local/nvm/versions/node/v22.16.0/bin/npm
+1 info using npm@11.4.1
+2 info using node@v22.16.0
+3 silly config load:file:/usr/local/nvm/versions/node/v22.16.0/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/mario_botha_mb/learn-coding-with-rugby/.npmrc
+5 silly config load:file:/home/mario_botha_mb/.npmrc
+6 silly config load:file:/usr/local/nvm/versions/node/v22.16.0/etc/npmrc
+7 verbose title npm install firebase react-router-dom tailwindcss postcss autoprefixer vite-plugin-pwa
+8 verbose argv "install" "firebase" "react-router-dom" "tailwindcss" "postcss" "autoprefixer" "vite-plugin-pwa"
+9 verbose logfile logs-max:10 dir:/home/mario_botha_mb/.npm/_logs/2025-06-30T11_00_36_711Z-
+10 verbose logfile /home/mario_botha_mb/.npm/_logs/2025-06-30T11_00_36_711Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:2197815296 maxSize:549453824 maxEntrySize:274726912
+13 silly idealTree buildDeps
+14 silly fetch manifest react@^19.1.0
+15 silly packumentCache full:https://registry.npmjs.org/react cache-miss
+16 http fetch GET 200 https://registry.npmjs.org/react 236ms (cache miss)
+17 silly packumentCache full:https://registry.npmjs.org/react set size:undefined disposed:false
+18 silly fetch manifest react-dom@^19.1.0
+19 silly packumentCache full:https://registry.npmjs.org/react-dom cache-miss
+20 http fetch GET 200 https://registry.npmjs.org/react-dom 131ms (cache miss)
+21 silly packumentCache full:https://registry.npmjs.org/react-dom set size:undefined disposed:false
+22 silly fetch manifest firebase@*
+23 silly packumentCache full:https://registry.npmjs.org/firebase cache-miss
+24 http fetch GET 200 https://registry.npmjs.org/firebase 396ms (cache miss)
+25 silly packumentCache full:https://registry.npmjs.org/firebase set size:undefined disposed:false
+26 silly fetch manifest react-router-dom@*
+27 silly packumentCache full:https://registry.npmjs.org/react-router-dom cache-miss
+28 http fetch GET 200 https://registry.npmjs.org/react-router-dom 79ms (cache miss)
+29 silly packumentCache full:https://registry.npmjs.org/react-router-dom set size:undefined disposed:false
+30 silly fetch manifest tailwindcss@*
+31 silly packumentCache full:https://registry.npmjs.org/tailwindcss cache-miss
+32 http fetch GET 200 https://registry.npmjs.org/tailwindcss 161ms (cache miss)
+33 silly packumentCache full:https://registry.npmjs.org/tailwindcss set size:undefined disposed:false
+34 silly fetch manifest postcss@*
+35 silly packumentCache full:https://registry.npmjs.org/postcss cache-miss
+36 http fetch GET 200 https://registry.npmjs.org/postcss 40ms (cache miss)
+37 silly packumentCache full:https://registry.npmjs.org/postcss set size:undefined disposed:false
+38 silly fetch manifest autoprefixer@*
+39 silly packumentCache full:https://registry.npmjs.org/autoprefixer cache-miss
+40 http fetch GET 200 https://registry.npmjs.org/autoprefixer 58ms (cache miss)
+41 silly packumentCache full:https://registry.npmjs.org/autoprefixer set size:undefined disposed:false
+42 silly fetch manifest vite-plugin-pwa@*
+43 silly packumentCache full:https://registry.npmjs.org/vite-plugin-pwa cache-miss
+44 http fetch GET 200 https://registry.npmjs.org/vite-plugin-pwa 59ms (cache miss)
+45 silly packumentCache full:https://registry.npmjs.org/vite-plugin-pwa set size:undefined disposed:false
+46 silly fetch manifest @vite-pwa/assets-generator@^1.0.0
+47 silly packumentCache full:https://registry.npmjs.org/@vite-pwa%2fassets-generator cache-miss
+48 http fetch GET 200 https://registry.npmjs.org/@vite-pwa%2fassets-generator 663ms (cache miss)
+49 silly packumentCache full:https://registry.npmjs.org/@vite-pwa%2fassets-generator set size:undefined disposed:false
+50 silly fetch manifest vite@^7.0.0
+51 silly packumentCache full:https://registry.npmjs.org/vite cache-miss
+52 http fetch GET 200 https://registry.npmjs.org/vite 824ms (cache miss)
+53 silly packumentCache full:https://registry.npmjs.org/vite set size:undefined disposed:false
+54 silly fetch manifest vite@^3.1.0 || ^4.0.0 || ^5.0.0 || ^6.0.0
+55 silly packumentCache full:https://registry.npmjs.org/vite cache-miss
+56 http cache https://registry.npmjs.org/vite 107ms (cache hit)
+57 silly packumentCache full:https://registry.npmjs.org/vite set size:38426328 disposed:false
+58 silly fetch manifest @types/node@^20.19.0 || >=22.12.0
+59 silly packumentCache full:https://registry.npmjs.org/@types%2fnode cache-miss
+60 http fetch GET 200 https://registry.npmjs.org/@types%2fnode 192ms (cache miss)
+61 silly packumentCache full:https://registry.npmjs.org/@types%2fnode set size:undefined disposed:false
+62 silly fetch manifest jiti@>=1.21.0
+63 silly packumentCache full:https://registry.npmjs.org/jiti cache-miss
+64 http fetch GET 200 https://registry.npmjs.org/jiti 44ms (cache miss)
+65 silly packumentCache full:https://registry.npmjs.org/jiti set size:undefined disposed:false
+66 silly fetch manifest less@^4.0.0
+67 silly packumentCache full:https://registry.npmjs.org/less cache-miss
+68 http fetch GET 200 https://registry.npmjs.org/less 46ms (cache miss)
+69 silly packumentCache full:https://registry.npmjs.org/less set size:undefined disposed:false
+70 silly fetch manifest lightningcss@^1.21.0
+71 silly packumentCache full:https://registry.npmjs.org/lightningcss cache-miss
+72 http fetch GET 200 https://registry.npmjs.org/lightningcss 36ms (cache miss)
+73 silly packumentCache full:https://registry.npmjs.org/lightningcss set size:undefined disposed:false
+74 silly fetch manifest sass@^1.70.0
+75 silly packumentCache full:https://registry.npmjs.org/sass cache-miss
+76 http fetch GET 200 https://registry.npmjs.org/sass 45ms (cache miss)
+77 silly packumentCache full:https://registry.npmjs.org/sass set size:undefined disposed:false
+78 silly fetch manifest sass-embedded@^1.70.0
+79 silly packumentCache full:https://registry.npmjs.org/sass-embedded cache-miss
+80 http fetch GET 200 https://registry.npmjs.org/sass-embedded 32ms (cache miss)
+81 silly packumentCache full:https://registry.npmjs.org/sass-embedded set size:undefined disposed:false
+82 silly fetch manifest stylus@>=0.54.8
+83 silly packumentCache full:https://registry.npmjs.org/stylus cache-miss
+84 http fetch GET 200 https://registry.npmjs.org/stylus 39ms (cache miss)
+85 silly packumentCache full:https://registry.npmjs.org/stylus set size:undefined disposed:false
+86 silly fetch manifest sugarss@^5.0.0
+87 silly packumentCache full:https://registry.npmjs.org/sugarss cache-miss
+88 http fetch GET 200 https://registry.npmjs.org/sugarss 46ms (cache miss)
+89 silly packumentCache full:https://registry.npmjs.org/sugarss set size:undefined disposed:false
+90 silly fetch manifest terser@^5.16.0
+91 silly packumentCache full:https://registry.npmjs.org/terser cache-miss
+92 http fetch GET 200 https://registry.npmjs.org/terser 41ms (cache miss)
+93 silly packumentCache full:https://registry.npmjs.org/terser set size:undefined disposed:false
+94 silly fetch manifest tsx@^4.8.1
+95 silly packumentCache full:https://registry.npmjs.org/tsx cache-miss
+96 http fetch GET 200 https://registry.npmjs.org/tsx 32ms (cache miss)
+97 silly packumentCache full:https://registry.npmjs.org/tsx set size:undefined disposed:false
+98 silly fetch manifest yaml@^2.4.2
+99 silly packumentCache full:https://registry.npmjs.org/yaml cache-miss
+100 http fetch GET 200 https://registry.npmjs.org/yaml 40ms (cache miss)
+101 silly packumentCache full:https://registry.npmjs.org/yaml set size:undefined disposed:false
+102 verbose stack Error: unable to resolve dependency tree
+102 verbose stack     at #failPeerConflict (/usr/local/nvm/versions/node/v22.16.0/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/build-ideal-tree.js:1374:25)
+102 verbose stack     at #loadPeerSet (/usr/local/nvm/versions/node/v22.16.0/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/build-ideal-tree.js:1340:33)
+102 verbose stack     at async #buildDepStep (/usr/local/nvm/versions/node/v22.16.0/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/build-ideal-tree.js:915:11)
+102 verbose stack     at async Arborist.buildIdealTree (/usr/local/nvm/versions/node/v22.16.0/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/build-ideal-tree.js:182:7)
+102 verbose stack     at async Promise.all (index 1)
+102 verbose stack     at async Arborist.reify (/usr/local/nvm/versions/node/v22.16.0/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/reify.js:130:5)
+102 verbose stack     at async Install.exec (/usr/local/nvm/versions/node/v22.16.0/lib/node_modules/npm/lib/commands/install.js:149:5)
+102 verbose stack     at async Npm.exec (/usr/local/nvm/versions/node/v22.16.0/lib/node_modules/npm/lib/npm.js:208:9)
+102 verbose stack     at async module.exports (/usr/local/nvm/versions/node/v22.16.0/lib/node_modules/npm/lib/cli/entry.js:67:5)
+103 error code ERESOLVE
+104 error ERESOLVE unable to resolve dependency tree
+105 error
+106 error While resolving: learn-coding-with-rugby@0.0.0
+106 error Found: vite@7.0.0[2m[22m
+106 error [2mnode_modules/vite[22m
+106 error   [34mdev[39m vite@"^7.0.0" from the root project
+106 error
+106 error Could not resolve dependency:
+106 error [95mpeer[39m vite@"^3.1.0 || ^4.0.0 || ^5.0.0 || ^6.0.0" from vite-plugin-pwa@1.0.0[2m[22m
+106 error [2mnode_modules/vite-plugin-pwa[22m
+106 error   vite-plugin-pwa@"*" from the root project
+106 error
+106 error Fix the upstream dependency conflict, or retry
+106 error this command with --force or --legacy-peer-deps
+106 error to accept an incorrect (and potentially broken) dependency resolution.
+107 error
+107 error
+107 error For a full report see:
+107 error /home/mario_botha_mb/.npm/_logs/2025-06-30T11_00_36_711Z-eresolve-report.txt
+108 silly unfinished npm timer reify 1751281237022
+109 silly unfinished npm timer reify:loadTrees 1751281237023
+110 silly unfinished npm timer idealTree:buildDeps 1751281237043
+111 silly unfinished npm timer idealTree:#root 1751281237044
+112 verbose cwd /home/mario_botha_mb/learn-coding-with-rugby
+113 verbose os Linux 6.6.87+
+114 verbose node v22.16.0
+115 verbose npm  v11.4.1
+116 verbose exit 1
+117 verbose code 1
+118 error A complete log of this run can be found in: /home/mario_botha_mb/.npm/_logs/2025-06-30T11_00_36_711Z-debug-0.log
